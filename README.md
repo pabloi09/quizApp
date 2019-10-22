@@ -3,7 +3,9 @@
 Quiz App university project. It has been written using the Javascript library React. This project includes:
 
 -The use of Material-UI framework
+
 -Handling with async events like downloading the questions from a university server or timers
+
 -Navigation between screens with Routes
 
 
