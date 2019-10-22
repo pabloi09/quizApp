@@ -1,6 +1,6 @@
 ## Quiz App
 
-Quiz App university project for Web Engineering cours that consists on creating a client web app. It has been written using the Javascript library React. This project includes:
+Quiz App university project for Web Engineering course that consists on creating a client web app. It has been written using the Javascript library React. This project includes:
 
 -The use of Material-UI framework
 
