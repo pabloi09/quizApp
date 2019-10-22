@@ -1,6 +1,6 @@
 ## Quiz App
 
-Quiz App university project. It has been written using the Javascript library React. This project includes:
+Quiz App university project to create a client web app. It has been written using the Javascript library React. This project includes:
 
 -The use of Material-UI framework
 
